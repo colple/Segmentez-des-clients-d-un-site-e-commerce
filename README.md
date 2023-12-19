@@ -48,4 +48,4 @@ Pour des raisons de confidentialité, nous ne pouvons pas vous fournir beaucoup 
 3. Évaluation des performances d’un modèle d'apprentissage non supervisé.
 
 ## Auteur
-colple (Coline Plé)
+Coline Plé
